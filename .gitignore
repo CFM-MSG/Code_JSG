@@ -1,0 +1,22 @@
+# python cache
+*.pyc
+*/__pycache__/
+
+# scripts
+# *.sh
+
+# dataset
+dataset/netdisk
+
+# json
+*.json
+
+# experimental record and plan
+0-record.md
+
+# data preprocess
+roberta.large/
+
+# compressed files
+*.tar.*
+*.gz.*
